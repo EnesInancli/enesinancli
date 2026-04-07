@@ -10,12 +10,12 @@
 
 ## 🚀 Hakkımda
 
-Merhaba! [cite_start]Ben Enes, yapay zeka, görüntü işleme ve optimizasyon alanlarında projeler geliştiren bir **Bilgisayar Mühendisliği** öğrencisiyim [cite: 1, 11] 🚀
+Merhaba! Ben Enes, yapay zeka, görüntü işleme ve optimizasyon alanlarında projeler geliştiren bir **Bilgisayar Mühendisliği** öğrencisiyim
 
-- [cite_start]🔭 Şu anda **Gazi Üniversitesi Bilişim Enstitüsü** bünyesinde yazılım projelerinde aktif rol alıyorum [cite: 12, 18]
-- [cite_start]🤖 İlgi alanlarım: **Yapay Zeka, Görüntü İşleme, Optimizasyon ve Oyun Geliştirme** [cite: 11, 15]
-- [cite_start]🌱 Çoklu kamera sistemleri, yüz tanıma ve sınav çizelgeleme algoritmaları üzerine çalışıyorum [cite: 13, 21]
-- [cite_start]💬 **Gazi Üniversitesi Yapay Zeka Topluluğu Başkanı** olarak ekip koordinasyonu sağlıyorum [cite: 14, 22]
+- 🔭 Şu anda **Gazi Üniversitesi Bilişim Enstitüsü** bünyesinde yazılım projelerinde aktif rol alıyorum.
+- 🤖 İlgi alanlarım: **Yapay Zeka, Görüntü İşleme, Optimizasyon ve Oyun Geliştirme** .
+- 🌱 Çoklu kamera sistemleri, yüz tanıma ve sınav çizelgeleme algoritmaları üzerine çalışıyorum.
+- 💬 **Gazi Üniversitesi Yapay Zeka Topluluğu Başkanı** olarak ekip koordinasyonu sağlıyorum.
 
 ---
 
@@ -61,13 +61,6 @@ Merhaba! [cite_start]Ben Enes, yapay zeka, görüntü işleme ve optimizasyon al
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enesinancli&theme=tokyonight&hide_border=true&background=0D1117)
-</div>
-
----
 
 ## 🌐 İletişim
 
