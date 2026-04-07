@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Enes Inancli%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Computer%20Engineering%20%7C%20Software%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Enes_İnançlı%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Computer%20Engineering%20%7C%20Software%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Yapay+Zeka+%26+Görüntü+İşleme;Yazılım+Mühendisi+Adayı;Topluluk+Başkanı+%40GaziYZT)
 
