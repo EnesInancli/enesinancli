@@ -12,7 +12,7 @@
 
 Merhaba! Ben Enes, yapay zeka, görüntü işleme ve optimizasyon alanlarında projeler geliştiren bir **Bilgisayar Mühendisliği** öğrencisiyim
 
--  telescope: Şu anda **Gazi Üniversitesi Bilişim Enstitüsü** bünyesinde yazılım projelerinde aktif rol alıyorum.
+- 🔭 Şu anda **Gazi Üniversitesi Bilişim Enstitüsü** bünyesinde yazılım projelerinde aktif rol alıyorum.
 - 🤖 İlgi alanlarım: **Yapay Zeka, Görüntü İşleme, Optimizasyon ve Oyun Geliştirme** .
 - 🌱 Çoklu kamera sistemleri, yüz tanıma ve sınav çizelgeleme algoritmaları üzerine çalışıyorum.
 - 💬 **Gazi Üniversitesi Yapay Zeka Topluluğu Başkanı** olarak ekip koordinasyonu sağlıyorum.
