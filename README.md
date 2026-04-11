@@ -12,7 +12,7 @@
 
 Merhaba! Ben Enes, yapay zeka, görüntü işleme ve optimizasyon alanlarında projeler geliştiren bir **Bilgisayar Mühendisliği** öğrencisiyim
 
-- 🔭 Şu anda **Gazi Üniversitesi Bilişim Enstitüsü** bünyesinde yazılım projelerinde aktif rol alıyorum.
+-  telescope: Şu anda **Gazi Üniversitesi Bilişim Enstitüsü** bünyesinde yazılım projelerinde aktif rol alıyorum.
 - 🤖 İlgi alanlarım: **Yapay Zeka, Görüntü İşleme, Optimizasyon ve Oyun Geliştirme** .
 - 🌱 Çoklu kamera sistemleri, yüz tanıma ve sınav çizelgeleme algoritmaları üzerine çalışıyorum.
 - 💬 **Gazi Üniversitesi Yapay Zeka Topluluğu Başkanı** olarak ekip koordinasyonu sağlıyorum.
@@ -55,9 +55,9 @@ Merhaba! Ben Enes, yapay zeka, görüntü işleme ve optimizasyon alanlarında p
 
 | Proje | Açıklama | Teknolojiler |
 | :--- | :--- | :--- |
-| 🚀 **Proje Adı 1** | | |
-| 🛠️ **Proje Adı 2** | | |
-| 💡 **Proje Adı 3** | | |
+| 🚀 **[OptiMarket](https://github.com/EnesInancli/OptiMarket)** | Kısıt Programlama (CP) kullanılarak geliştirilen, market zincirleri için optimize edilmiş personel çizelgeleme sistemi. | `.NET`, `Google OR-Tools`, `CP` |
+| 🛠️ **[Evolving Ecosystem](https://github.com/EnesInancli/Evolving-Ecosystem-Simulation-Unity-2D-)** | Genetik algoritmalarla şekillenen ve canlıların hayatta kalma mücadelesini simüle eden 2D yapay zeka projesi. | `Unity`, `C#`, `Genetic Algorithms` |
+| 💡 **[Websitesi Projesi](https://github.com/EnesInancli/Websitesi_projesi)** | Modern web teknolojileri ile geliştirilmiş, SEO odaklı ve dinamik veri yönetimi sunan kurumsal çözüm platformu. | `React`, `Supabase`, `Vercel` |
 
 ---
 
